@@ -16,3 +16,22 @@ Modify the starter code to be accessible to all kind of users and follow coding 
 5. Navigate to < https://prodeveloper2023.github.io/firstproject-code/ > and you will find that your new webpage has gone live!
 
 ## Usage 
+Here are 3 screenshot showing top to bottom of the page:
+    1. assets/images/Screenshot 2023-11-14 at 7.48.19 pm.png
+    2. assets/images/Screenshot 2023-11-14 at 7.48.57 pm.png
+    3. assets/images/Screenshot 2023-11-14 at 7.52.33 pm.png
+
+## Credits
+MDN Documentation
+
+## License
+Not used any license yet.
+
+## Features
+One feature added as feature/starter-code
+
+## Contributing
+It's an individual assignment for now.
+
+## Tests
+It's a static site at the moment and apart from getting response through git push and pull no other tests being done.
