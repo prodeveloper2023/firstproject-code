@@ -1,7 +1,8 @@
 # firstproject-code
 
 ## Description
-Modify the starter code to be accessible to all kind of users and follow coding standards increase SEO for reach and growth in the industry. A new repository has been created in github. Then that repository is cloned into the local machine i order to add, commit and push code into the repository through out project lifecycle. A new feature has been added away from the main branch to work on a specific aspect of the code so that version control is maintained.
+Modify the starter code to be accessible to all kind of users and follow coding standards increase SEO for reach and growth in the industry. A new repository has been created in github. Then that repository is cloned into the local machine i order to add, commit and push code into the repository through out project lifecycle. A new feature has been added away from the main branch to work on a specific aspect of the code so that version control is maintained.Semantic HTML elements can be found throughout the source code, HTML elements follow a logical structure independent of styling and positioning, Image and icon elements contain accessible `alt` attributes, Heading attributes fall in sequential order and Title elements contain a concise, descriptive title.
+
 
 ## Installation
 
