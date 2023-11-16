@@ -18,10 +18,11 @@ Modify the starter code to be accessible to all kind of users and follow coding 
 
 ## Usage 
 Here are 3 screenshot showing top to bottom of the page:
-    1. assets/images/Screenshot 2023-11-14 at 7.48.19 pm.png
-    2. assets/images/Screenshot 2023-11-14 at 7.48.57 pm.png
-    3. assets/images/Screenshot 2023-11-14 at 7.52.33 pm.png
-
+    ![Top of page](assets/images/Screenshot2023-11-14at7.48.19pm.png)
+    ![bottom of page](assets/images/Screenshot2023-11-14at7.52.33pm.png)
+    ![middle of page](assets/images/Screenshot2023-11-14at7.48.57pm.png)
+     
+   
 ## Credits
 MDN Documentation
 
