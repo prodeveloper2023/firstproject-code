@@ -18,9 +18,9 @@ Modify the starter code to be accessible to all kind of users and follow coding 
 
 ## Usage 
 Here are 3 screenshot showing top to bottom of the page:
-    ![Top of page](assets/images/Screenshot2023-11-14at7.48.19pm.png)
-    ![bottom of page](assets/images/Screenshot2023-11-14at7.52.33pm.png)
-    ![middle of page](assets/images/Screenshot2023-11-14at7.48.57pm.png)
+    ![Top page](assets/images/Screenshot2023-11-14at7.48.19pm.png)
+    ![bottom page](assets/images/Screenshot2023-11-14at7.52.33pm.png)
+    ![middle page](assets/images/Screenshot2023-11-14at7.48.57pm.png)
      
    
 ## Credits
